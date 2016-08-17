@@ -28,7 +28,7 @@ const plugins = [
     condition: (node) =>
       node.type === 'paragraph' && !node.isEmpty
     component: (props) =>
-      <div>{props}.children</div>
+      <div>{props.children}</div>
   })
 ]
 

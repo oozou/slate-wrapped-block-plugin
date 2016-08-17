@@ -6,7 +6,7 @@
       "nodes": [
         {
           "kind": "text",
-          "text": "Try typing '(c)' in this block."
+          "text": "A long time ago, in a galaxy far, far away...It is a period of civil war. Rebel spaceships, striking from a hidden base, have won their first victory against the evil Galactic Empire."
         }
       ]
     },
@@ -16,7 +16,7 @@
       "nodes": [
         {
           "kind": "text",
-          "text": "Try typing '> ' at the start of this block."
+          "text": "I find your lack of faith disturbing. – Darth Vader"
         }
       ]
     },
@@ -26,7 +26,7 @@
       "nodes": [
         {
           "kind": "text",
-          "text": "Try typing '### ' at the start of this block."
+          "text": "In my experience there is no such thing as luck. – Obi-Wan Kenobi"
         }
       ]
     },
@@ -36,7 +36,7 @@
       "nodes": [
         {
           "kind": "text",
-          "text": "Try typing '- ' at the start of this block."
+          "text": "It’s a trap! – Admiral Ackbar"
         }
       ]
     },
@@ -46,7 +46,7 @@
       "nodes": [
         {
           "kind": "text",
-          "text": "Try typing '---<enter>' in a new block."
+          "text": "Once you start down the dark path, forever will it dominate your destiny. - Yoda"
         }
       ]
     }

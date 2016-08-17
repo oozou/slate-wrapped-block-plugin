@@ -3,6 +3,8 @@
 
 A [**Slate**](https://github.com/ianstormtaylor/slate) plugin to automatically wrap a custom block component around the selected block by condition. Useful for implementing block floating button or other behaviors.
 
+![](./example/demo.gif)
+
 ---
 
 ### Install

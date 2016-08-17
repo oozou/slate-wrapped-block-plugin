@@ -6,16 +6,15 @@ const clearNodeStyle = {
 }
 
 const clearIconStyle = {
-  border: '1px solid black',
-  borderRadius: '50%',
   position: 'absolute',
-  top: 0,
-  right: 0,
+  top: 3,
+  right: 2,
   width: '20px',
   height: '20px',
   textAlign: 'center',
   zIndex: 2000,
-  cursor: 'pointer'
+  cursor: 'pointer',
+  color: '#999'
 }
 
 class ClearNode extends React.Component {
@@ -42,7 +41,7 @@ class ClearNode extends React.Component {
   render() {
     return (
       <div style={clearNodeStyle}>
-        <div style={clearIconStyle} onClick={this.clearContent} contentEditable={false}>X</div>
+        <div style={clearIconStyle} onClick={this.clearContent} contentEditable={false}><i className="fa fa-times-circle"></i></div>
         {this.props.children}
       </div>
     )

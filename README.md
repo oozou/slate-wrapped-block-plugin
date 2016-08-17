@@ -8,7 +8,7 @@ A [**Slate**](https://github.com/ianstormtaylor/slate) plugin to automatically w
 ### Install
 
 ```
-npm install --save slate-wrapped-block
+npm install --save slate-wrapped-block-plugin
 ```
 
 _You will need to have installed `slate` as a dependency already._

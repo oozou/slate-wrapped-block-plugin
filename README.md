@@ -18,7 +18,7 @@ _You will need to have installed `slate` as a dependency already._
 ### Usage
 
 ```js
-import AutoWrapBlock from 'slate-wrapped-block'
+import AutoWrapBlock from 'slate-wrapped-block-plugin'
 import { Editor } from 'slate'
 
 // Add the plugin to your set of plugins...

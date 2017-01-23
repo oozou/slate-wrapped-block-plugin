@@ -22,11 +22,13 @@ class ClearNode extends React.Component {
   clearContent = () => {
     const { editor, state, node } = this.props
 
+    const textNode = node.nodes.first().nodes.first()
+
     const contentSelection = {
-      anchorKey: node.key,
+      anchorKey: textNode.key,
       anchorOffset: 0,
-      focusKey: node.key,
-      focusOffset: node.length
+      focusKey: textNode.key,
+      focusOffset: textNode.length
     }
 
     editor.props.onChange(

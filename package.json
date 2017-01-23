@@ -35,9 +35,9 @@
     "gh-pages": "^0.11.0",
     "http-server": "^0.9.0",
     "npm-run-all": "^2.3.0",
-    "react": "^15.2.1",
-    "react-dom": "^15.2.1",
-    "slate": "^0.12.0",
+    "react": "^15.4.2",
+    "react-dom": "^15.4.2",
+    "slate": "^0.16.10",
     "watchify": "^3.7.0"
   },
   "keywords": [

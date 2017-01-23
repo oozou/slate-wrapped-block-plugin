@@ -1,7 +1,7 @@
 {
   "name": "slate-wrapped-block-plugin",
   "description": "A Slate plugin that auto wrap selected block with some custom block",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "license": "MIT",
   "repository": "git://github.com/oozou/slate-wrapped-block-plugin.git",
   "main": "./dist/index.js",
